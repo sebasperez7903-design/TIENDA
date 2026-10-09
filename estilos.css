@@ -1,0 +1,18 @@
+body,html{
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100%;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(fondo-envios.jpg) center center;
+    background-size: cover;
+
+}
+.ELVELOZ{
+text-align: center;
+padding: 20PX;
+background-color: beige;
+border-radius: 10PX;
+box-shadow: 0 4px 8px rgba(205, 179, 179, 0.1);
+}
